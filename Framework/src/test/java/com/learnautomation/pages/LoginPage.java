@@ -8,6 +8,7 @@ public class LoginPage {
 
 	public WebDriver driver;
 	
+	//new comment from Harshit
 	
 	public LoginPage(WebDriver ldriver)
 	{
